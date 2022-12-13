@@ -26,4 +26,4 @@ print (afifah.getage())
 print (afifah.getisMale())
 
 afifah.setname("salsabila")
-print (afifah.getname())
+print (afifah.getname())  
